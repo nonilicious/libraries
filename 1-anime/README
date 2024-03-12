@@ -1,0 +1,53 @@
+DE
+
+# Anime Folder
+
+Dieser Ordner enthält Code, der auf der Anime.js-Bibliothek basiert. Anime.js ist eine leistungsstarke JavaScript-Bibliothek für die Animation von Webseiten. Der Code in diesem Verzeichnis nutzt die Funktionalitäten von Anime.js, um beeindruckende Animationen in Ihren Projekten zu erstellen.
+
+## Quellen
+
+- **Anime.js:** [https://animejs.com/](https://animejs.com/)
+
+## Lizenz
+
+Der Code im "Anime" Ordner unterliegt der Lizenz von Anime.js. Bitte überprüfen Sie die entsprechende Lizenz für weitere Details.
+
+## Verwendung
+
+Um die Anime.js-Bibliothek in Ihren Projekten zu verwenden, folgen Sie den Installations- und Verwendungsanweisungen auf der offiziellen [Anime.js-Website](https://animejs.com/documentation/).
+
+## Weitere Informationen
+
+Für detailliertere Informationen zur Verwendung und Konfiguration von Anime.js empfehlen wir einen Blick in die offizielle [Anime.js-Dokumentation](https://animejs.com/documentation/).
+
+---
+
+**Hinweis:** Bitte beachten Sie, dass dieser Code auf der Arbeit von Dritten basiert. Wir danken den Entwicklern von Anime.js für ihre großartige Arbeit und die Bereitstellung dieser nützlichen Bibliothek.
+
+---
+
+EN
+
+# Anime Folder
+
+This directory contains code based on the Anime.js library. Anime.js is a powerful JavaScript library for web animation. The code in this directory leverages the functionalities of Anime.js to create impressive animations in your projects.
+
+## Sources
+
+- **Anime.js:** [https://animejs.com/](https://animejs.com/)
+
+## License
+
+The code in the "Anime" folder is subject to the Anime.js license. Please check the respective license for more details.
+
+## Usage
+
+To integrate the Anime.js library into your projects, follow the installation and usage instructions on the official [Anime.js website](https://animejs.com/documentation/).
+
+## Additional Information
+
+For more detailed information on using and configuring Anime.js, we recommend referring to the official [Anime.js documentation](https://animejs.com/documentation/).
+
+---
+
+**Note:** Please be aware that this code is based on the work of third parties. We appreciate the developers of Anime.js for their excellent work and providing this useful library.

@@ -1,0 +1,59 @@
+DE
+
+# SweetAlert2 Integration
+
+Dieses Projekt verwendet die SweetAlert2-Bibliothek, eine benutzerfreundliche JavaScript-Bibliothek für die Erstellung ansprechender modaler Dialoge und Benachrichtigungen.
+
+## Quellen
+
+- **SweetAlert2:** [https://sweetalert2.github.io/](https://sweetalert2.github.io/)
+
+## Lizenz
+
+Der Code, der die SweetAlert2-Bibliothek verwendet, unterliegt den Lizenzbedingungen von SweetAlert2. Bitte lesen Sie die entsprechende Lizenz für weitere Informationen.
+
+## Verwendung
+
+Um SweetAlert2 in Ihrem Projekt zu verwenden, folgen Sie den Installations- und Verwendungsanweisungen auf der offiziellen [SweetAlert2-Website](https://sweetalert2.github.io/).
+
+## Anpassung
+
+SweetAlert2 bietet umfangreiche Anpassungsmöglichkeiten für Dialoge und Benachrichtigungen. Sie können die verschiedenen Optionen erkunden, um SweetAlert2 an Ihre Bedürfnisse anzupassen.
+
+## Weitere Informationen
+
+Für detaillierte Informationen zur Anpassung und Verwendung von SweetAlert2 empfehlen wir einen Blick in die offizielle [SweetAlert2-Dokumentation](https://sweetalert2.github.io/#usage).
+
+---
+
+**Hinweis:** Dieses Projekt basiert auf der SweetAlert2-Bibliothek. Wir danken den Entwicklern von SweetAlert2 für ihre herausragende Arbeit und die Bereitstellung dieser benutzerfreundlichen Dialogbibliothek.
+
+EN
+
+# SweetAlert2 Integration
+
+This project utilizes the SweetAlert2 library, a user-friendly JavaScript library for creating appealing modal dialogs and notifications.
+
+## Sources
+
+- **SweetAlert2:** [https://sweetalert2.github.io/](https://sweetalert2.github.io/)
+
+## License
+
+The code using the SweetAlert2 library is subject to the licensing terms of SweetAlert2. Please refer to the respective license for more details.
+
+## Usage
+
+To incorporate SweetAlert2 into your project, follow the installation and usage instructions on the official [SweetAlert2 website](https://sweetalert2.github.io/).
+
+## Customization
+
+SweetAlert2 provides extensive customization options for dialogs and notifications. You can explore the various options to tailor SweetAlert2 to your needs.
+
+## Additional Information
+
+For detailed information on customization and usage of SweetAlert2, we recommend checking the official [SweetAlert2 documentation](https://sweetalert2.github.io/#usage).
+
+---
+
+**Note:** This project is based on the SweetAlert2 library. We appreciate the developers of SweetAlert2 for their outstanding work and providing this user-friendly dialog library.

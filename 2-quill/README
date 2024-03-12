@@ -1,0 +1,49 @@
+# Quill.js Integration
+
+Dieses Projekt verwendet die Quill.js-Bibliothek, eine leistungsstarke JavaScript-Bibliothek für die Implementierung von WYSIWYG-Editoren (What You See Is What You Get) in Webanwendungen.
+
+## Quellen
+
+- **Quill.js:** [https://quilljs.com/](https://quilljs.com/)
+
+## Lizenz
+
+Der Code, der die Quill.js-Bibliothek verwendet, unterliegt den Lizenzbedingungen von Quill.js. Bitte lesen Sie die entsprechende Lizenz für weitere Informationen.
+
+## Verwendung
+
+Um Quill.js in Ihrem Projekt zu integrieren, folgen Sie den Installations- und Verwendungsanweisungen auf der offiziellen [Quill.js-Website](https://quilljs.com/docs/quickstart/).
+
+## Weitere Informationen
+
+Für detaillierte Informationen zur Anpassung und Verwendung von Quill.js empfehlen wir einen Blick in die offizielle [Quill.js-Dokumentation](https://quilljs.com/docs/).
+
+---
+
+**Hinweis:** Dieses Projekt basiert auf der Quill.js-Bibliothek. Wir danken den Entwicklern von Quill.js für ihre herausragende Arbeit und die Bereitstellung dieser nützlichen Texteditor-Bibliothek.
+
+---
+
+# Quill.js Integration
+
+This project utilizes the Quill.js library, a powerful JavaScript library for implementing WYSIWYG (What You See Is What You Get) editors in web applications.
+
+## Sources
+
+- **Quill.js:** [https://quilljs.com/](https://quilljs.com/)
+
+## License
+
+The code using the Quill.js library is subject to the licensing terms of Quill.js. Please refer to the respective license for more details.
+
+## Usage
+
+To integrate Quill.js into your project, follow the installation and usage instructions on the official [Quill.js website](https://quilljs.com/docs/quickstart/).
+
+## Additional Information
+
+For detailed information on customization and usage of Quill.js, we recommend checking the official [Quill.js documentation](https://quilljs.com/docs/).
+
+---
+
+**Note:** This project is based on the Quill.js library. We appreciate the developers of Quill.js for their outstanding work and providing this useful text editor library.

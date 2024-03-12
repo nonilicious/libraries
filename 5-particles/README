@@ -1,0 +1,59 @@
+DE
+
+# Particles.js Integration
+
+Dieses Projekt verwendet die Particles.js-Bibliothek, eine JavaScript-Bibliothek zur Erstellung beeindruckender Partikeleffekte auf Webseiten.
+
+## Quellen
+
+- **Particles.js:** [https://marcbruederlin.github.io/particles.js/](https://marcbruederlin.github.io/particles.js/)
+
+## Lizenz
+
+Der Code, der die Particles.js-Bibliothek verwendet, unterliegt den Lizenzbedingungen von Particles.js. Bitte lesen Sie die entsprechende Lizenz für weitere Informationen.
+
+## Verwendung
+
+Um Particles.js in Ihrem Projekt zu verwenden, folgen Sie den Installations- und Verwendungsanweisungen auf der offiziellen [Particles.js-Website](https://marcbruederlin.github.io/particles.js/).
+
+## Anpassung
+
+Particles.js ermöglicht eine einfache Anpassung von Partikeleffekten. Durch Ändern der Konfiguration können Sie den Effekt nach Ihren Wünschen gestalten.
+
+## Weitere Informationen
+
+Für detaillierte Informationen zur Anpassung und Verwendung von Particles.js empfehlen wir einen Blick in die offizielle [Particles.js-Dokumentation](https://marcbruederlin.github.io/particles.js/).
+
+---
+
+**Hinweis:** Dieses Projekt basiert auf der Particles.js-Bibliothek. Wir danken Marc Bruederlin für seine herausragende Arbeit und die Bereitstellung dieser beeindruckenden Partikelbibliothek.
+
+EN
+
+# Particles.js Integration
+
+This project uses the Particles.js library, a JavaScript library for creating stunning particle effects on websites.
+
+## Sources
+
+- **Particles.js:** [https://marcbruederlin.github.io/particles.js/](https://marcbruederlin.github.io/particles.js/)
+
+## License
+
+The code using the Particles.js library is subject to the licensing terms of Particles.js. Please refer to the respective license for more details.
+
+## Usage
+
+To incorporate Particles.js into your project, follow the installation and usage instructions on the official [Particles.js website](https://marcbruederlin.github.io/particles.js/).
+
+## Customization
+
+Particles.js allows easy customization of particle effects. By modifying the configuration, you can tailor the effect to your preferences.
+
+## Additional Information
+
+For detailed information on customization and usage of Particles.js, we recommend checking the official [Particles.js documentation](https://marcbruederlin.github.io/particles.js/).
+
+---
+
+**Note:** This project is based on the Particles.js library. We appreciate Marc Bruederlin for his outstanding work and providing this impressive particle library.

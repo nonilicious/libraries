@@ -1,0 +1,59 @@
+DE
+
+# animate.css Integration
+
+Dieses Projekt verwendet die animate.css-Bibliothek, eine einfache und benutzerfreundliche CSS-Bibliothek für die Integration von Animationen in Webseiten.
+
+## Quellen
+
+- **animate.css:** [https://animate.style/](https://animate.style/)
+
+## Lizenz
+
+Der Code, der die animate.css-Bibliothek verwendet, unterliegt den Lizenzbedingungen von animate.css. Bitte lesen Sie die entsprechende Lizenz für weitere Informationen.
+
+## Verwendung
+
+Um animate.css in Ihrem Projekt zu verwenden, folgen Sie den Installations- und Verwendungsanweisungen auf der offiziellen [animate.css-Website](https://animate.style/).
+
+## Anpassung
+
+animate.css bietet eine Vielzahl von Animationseffekten, die einfach in Ihr Projekt integriert werden können. Sie können die verschiedenen Klassen verwenden und anpassen, um die gewünschten Animationen zu erreichen.
+
+## Weitere Informationen
+
+Für detaillierte Informationen zur Anpassung und Verwendung von animate.css empfehlen wir einen Blick in die offizielle [animate.css-Dokumentation](https://animate.style/).
+
+---
+
+**Hinweis:** Dieses Projekt basiert auf der animate.css-Bibliothek. Wir danken den Entwicklern von animate.css für ihre großartige Arbeit und die Bereitstellung dieser einfach zu verwendenden Animationsbibliothek.
+
+EN
+
+# animate.css Integration
+
+This project uses the animate.css library, a simple and user-friendly CSS library for integrating animations into websites.
+
+## Sources
+
+- **animate.css:** [https://animate.style/](https://animate.style/)
+
+## License
+
+The code using the animate.css library is subject to the licensing terms of animate.css. Please refer to the respective license for more details.
+
+## Usage
+
+To incorporate animate.css into your project, follow the installation and usage instructions on the official [animate.css website](https://animate.style/).
+
+## Customization
+
+animate.css offers a variety of animation effects that can be easily integrated into your project. You can use and customize different classes to achieve the desired animations.
+
+## Additional Information
+
+For detailed information on customization and usage of animate.css, we recommend checking the official [animate.css documentation](https://animate.style/).
+
+---
+
+**Note:** This project is based on the animate.css library. We appreciate the developers of animate.css for their excellent work and providing this easy-to-use animation library.
