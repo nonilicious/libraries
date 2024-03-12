@@ -1,0 +1,77 @@
+DE
+
+# Libraries Repository
+
+Dieses Repository dient der Sammlung verschiedener Libraries und Code-Ressourcen für Webentwicklung. Jeder Ordner in diesem Repository repräsentiert eine bestimmte Bibliothek und enthält detaillierte Informationen in seinem eigenen README-File.
+
+## Inhalt
+
+- [**Animate.css Integration**](./animate.css)
+
+  - Eine CSS-Bibliothek für die einfache Integration von Animationen in Webseiten. [Weitere Informationen](./animate.css/README.md).
+
+- [**Particles.js Integration**](./particles.js)
+
+  - Eine JavaScript-Bibliothek für beeindruckende Partikeleffekte auf Webseiten. [Weitere Informationen](./particles.js/README.md).
+
+- [**SweetAlert2 Integration**](./sweetalert2)
+
+  - Eine benutzerfreundliche JavaScript-Bibliothek für modale Dialoge und Benachrichtigungen. [Weitere Informationen](./sweetalert2/README.md).
+
+- [**Swiper.js Demos**](./swiper.js)
+
+  - Beispiele und Demos zur Verwendung der Swiper.js-Bibliothek. [Weitere Informationen](./swiper.js/README.md).
+
+- [**Particles.js von Vincent Garreau**](./particles-garreau)
+
+  - JavaScript-Bibliothek für beeindruckende Partikeleffekte auf Webseiten. [Weitere Informationen](./particles-garreau/README.md).
+
+- [**animate.css von Vincent Garreau**](./animate-garreau)
+  - Einfache und benutzerfreundliche CSS-Bibliothek für Webseiten-Animationen. [Weitere Informationen](./animate-garreau/README.md).
+
+## Hinweis
+
+Jeder Ordner verfügt über ein eigenes README-File mit weiteren Details zur entsprechenden Bibliothek. Bitte konsultieren Sie die jeweiligen README-Files für spezifische Anweisungen zur Integration und Verwendung.
+
+---
+
+**Hinweis:** Die Bibliotheken in diesem Repository basieren auf den Arbeiten verschiedener Entwickler. Wir danken allen für ihre hervorragenden Beiträge.
+
+EN
+
+# Libraries Repository
+
+This repository serves as a collection of various libraries and code resources for web development. Each folder in this repository represents a specific library and contains detailed information in its own README file.
+
+## Contents
+
+- [**Animate.css Integration**](./animate.css)
+
+  - A CSS library for easy integration of animations into websites. [More information](./animate.css/README.md).
+
+- [**Particles.js Integration**](./particles.js)
+
+  - A JavaScript library for stunning particle effects on websites. [More information](./particles.js/README.md).
+
+- [**SweetAlert2 Integration**](./sweetalert2)
+
+  - A user-friendly JavaScript library for modal dialogs and notifications. [More information](./sweetalert2/README.md).
+
+- [**Swiper.js Demos**](./swiper.js)
+
+  - Examples and demos showcasing the usage of the Swiper.js library. [More information](./swiper.js/README.md).
+
+- [**Particles.js by Vincent Garreau**](./particles-garreau)
+
+  - JavaScript library for impressive particle effects on websites. [More information](./particles-garreau/README.md).
+
+- [**animate.css by Vincent Garreau**](./animate-garreau)
+  - Simple and user-friendly CSS library for website animations. [More information](./animate-garreau/README.md).
+
+## Note
+
+Each folder has its own README file with additional details about the respective library. Please consult the specific README files for integration and usage instructions.
+
+---
+
+**Note:** The libraries in this repository are based on the works of various developers. We appreciate everyone for their outstanding contributions.
